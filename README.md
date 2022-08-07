@@ -1,2 +1,2 @@
 # Zuriwebsite
-Link to the published site: https://github.com/HoneyADE/Zuriwebsite.git
+Link to the published site: https://honeyade.github.io/Zuriwebsite/
